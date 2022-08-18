@@ -1,11 +1,16 @@
 _repo: The-Lanchester-tradition_68738
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68738-h/images/cover.jpg
 creator:
   author:
     agent_name: Bradby, G. F.
     gutenberg_agent_id: '54924'
     url: http://www.gutenberg.org/2009/agents/54924
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68738#The-Lanchester-tradition
 gutenberg_issued: '2022-08-13'
 identifiers:
   gutenberg: '68738'
